@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sy-siyu.github.io/sitemap.xml
