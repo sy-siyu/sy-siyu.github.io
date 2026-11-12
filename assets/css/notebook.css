@@ -523,3 +523,6 @@ html.motion-paused .envelope-letter { translate: none; }
 .news-papers li + li { margin-top: 0.4rem; }
 .news-papers li::marker { color: #813e2b; font-weight: 700; }
 @media (min-width: 1024px) { .news-papers { font-size: 1.0625rem; } }
+
+.paper-meta .paper-track { font: 700 0.875rem/1.5 var(--sans); color: #813e2b; letter-spacing: 0; text-transform: none; }
+.archive-track { color: #813e2b; font-weight: 700; }
